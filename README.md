@@ -13,7 +13,7 @@ This repository contains a series of Python exercises I completed while learning
 All code is written in English to improve readability and prepare for international development environments.
 
 ## 🚀 Technologies
-- Python 3.x
+- Python 3.11.9
 
 ## 📚 Purpose
 To strengthen my programming logic skills and build a solid foundation for my journey as a web and software developer.
